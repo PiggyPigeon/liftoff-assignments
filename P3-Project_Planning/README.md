@@ -14,7 +14,7 @@ My general plan [JPEG thing](https://docs.google.com/document/d/1x_nOkczwqeeU3kR
 
 ### Wireframe Images
 
-![wireframe of our homepage](images/Screen Shot 2023-04-24 at 3.31.53 PM.png)
+![wireframe of our homepage](..images/Screen Shot 2023-04-24 at 3.31.53 PM.png)
 ![wireframe of our login](images/Screen Shot 2023-04-24 at 3.32.05 PM.png)
 ![wireframe of our post-user-authentication landing page](images/Screen Shot 2023-04-24 at 3.32.18 PM.png)
 
