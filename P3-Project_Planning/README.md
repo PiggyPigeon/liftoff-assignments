@@ -12,6 +12,13 @@ Collaborative [wireframe site](https://app.uizard.io/prototypes/PjWwK68v4asnvmYZ
 
 My general plan [JPEG thing](https://docs.google.com/document/d/1x_nOkczwqeeU3kRIj4sx_Cl8MLcKNTmTc0RkjAOs0Uk/edit).
 
+### Wireframe Images
+
+![sketchy map of site plan](https://drive.google.com/file/d/1a5wF2RpXNyRkww1za-LCPcC9wkdSfaD7/view?usp=sharing)
+![wireframe of our homepage](https://drive.google.com/file/d/1HK81oau7dM99PwroRI95RVI-b9eIFd6s/view?usp=share_link)
+![wireframe of our login](https://drive.google.com/file/d/14PhbJjmIC-M3jHjISMTQwvqUDyV2bw63/view?usp=share_link)
+![wireframe of our post-user-authentication landing page](https://drive.google.com/file/d/1lQ3srz3XGCkZ7VmAAUsTantlTC0wOiBj/view?usp=share_link)
+
 
 ### Project Tracker
 
