@@ -8,8 +8,10 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Collaborative wireframe site: https://app.uizard.io/prototypes/PjWwK68v4asnvmYZ8pGg
-my general map plan JPEG thing: https://docs.google.com/document/d/1x_nOkczwqeeU3kRIj4sx_Cl8MLcKNTmTc0RkjAOs0Uk/edit
+Collaborative [wireframe site] (https://app.uizard.io/prototypes/PjWwK68v4asnvmYZ8pGg).
+
+My general plan [JPEG thing] (https://docs.google.com/document/d/1x_nOkczwqeeU3kRIj4sx_Cl8MLcKNTmTc0RkjAOs0Uk/edit).
+
 
 ### Project Tracker
 
